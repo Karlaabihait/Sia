@@ -1,0 +1,18 @@
+.cabecera{
+    height: 80px;
+    width: 100%;
+    background-image: url(https://us.123rf.com/450wm/mettus/mettus1403/mettus140300298/26867043-blue-curly-lines-on-a-black-wallpaper.jpg);
+    position: relative; 
+    font: size 30px;
+    color: rgb(197, 223, 248);
+    text-align: center;
+}
+.sia{
+    width: 500px;
+    height: 60px;
+    margin:0 auto;
+}
+H1{
+margin: 0;
+font-size: 60px;
+}

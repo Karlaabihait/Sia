@@ -1,0 +1,49 @@
+
+.footer{
+    margin-top: 60px;
+    font-size: 20px;
+    width: 600px;
+    height: 300px;
+   display: inline-block;
+   
+    color: white;
+  }
+  .footer2{
+    margin-top: 30px;
+    font-size: 30px;
+    width: 200px;
+    height: 200px;
+   display: inline-block;
+   color: white;
+  }
+  .contenedorfooter{
+    margin-top: 50px;
+    height: 200px;
+  }
+ 
+
+  .hola{
+    width: 300px;
+    height: 300px;
+  }
+  .footer, .footer2, .hola{
+    display: inline-block;
+    
+  }
+  .copy{
+    color: white;
+    margin-top: 13%;
+    text-align: center;
+  }
+.fila3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-image: url(https://us.123rf.com/450wm/mettus/mettus1403/mettus140300298/26867043-blue-curly-lines-on-a-black-wallpaper.jpg);
+}
+.datos{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+}
